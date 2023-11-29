@@ -1,6 +1,7 @@
 /**
  * FAW simulation
  * Zhu-20210806
+ * 1 attacker 1 victim
  *
  */
 #include <stdio.h>

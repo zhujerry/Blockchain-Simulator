@@ -2,6 +2,7 @@
  * FAW 1-n simulation
  * version 1
  * Zhu-20211020 created
+ * 1 attack n victim
  * 20211026 0:58 completed
  * 1104 fix n>9
  * 1105 function name optimize  output all reward

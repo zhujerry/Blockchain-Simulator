@@ -5,10 +5,14 @@
 
 ## FAW attack
 
-<table>
+<table width="98%">
 <tr>
     <td><B>论文</td>
     <td>Revisiting FAW Attack in an Imperfect PoW Blockchain System</td>
+</tr>
+<tr>
+    <td><B>内容</td>
+    <td>FAW攻击的建模与仿真，1攻击者1受害者</td>
 </tr>
 <tr>
     <td><B>语言</td>
@@ -20,10 +24,14 @@
 </tr>
 </table>
 
-<table>
+<table width="98%">
 <tr>
     <td><B>论文</td>
     <td>How Does FAW Attack Impact an Imperfect PoW Blockchain: A Simulation-based Approach</td>
+</tr>
+<tr>
+    <td><B>内容</td>
+    <td>FAW攻击仿真，1攻击者N受害者</td>
 </tr>
 <tr>
     <td><B>语言</td>
