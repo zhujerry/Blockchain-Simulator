@@ -5,5 +5,32 @@
 
 ## FAW attack
 
-论文：Revisiting FAW Attack in an Imperfect PoW Blockchain System
-语言：C
+<table>
+<tr>
+    <td><B>论文</td>
+    <td>Revisiting FAW Attack in an Imperfect PoW Blockchain System</td>
+</tr>
+<tr>
+    <td><B>语言</td>
+    <td>C</td>
+</tr>
+<tr>
+    <td><B>代码位置</td>
+    <td>src/FAW/FAW_1-1.cpp</td>
+</tr>
+</table>
+
+<table>
+<tr>
+    <td><B>论文</td>
+    <td>How Does FAW Attack Impact an Imperfect PoW Blockchain: A Simulation-based Approach</td>
+</tr>
+<tr>
+    <td><B>语言</td>
+    <td>C</td>
+</tr>
+<tr>
+    <td><B>代码位置</td>
+    <td>src/FAW/FAW_1-n.cpp</td>
+</tr>
+</table>
